@@ -1,0 +1,10 @@
+resivers:
+  - name: "Main"
+    host: "0.0.0.0"
+    port: 30002
+    type: "raw"
+    position:
+      lat: 49.159042
+      lon: 55.764621
+
+
