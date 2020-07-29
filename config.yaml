@@ -4,7 +4,7 @@ resivers:
     port: 30002
     type: "raw"
     position:
-      lat: 49.159042
-      lon: 55.764621
+      lat: 49.159040
+      lon: 55.764630
 
 
